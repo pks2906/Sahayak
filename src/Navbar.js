@@ -21,6 +21,10 @@ const Navbar = () => {
           About us
         </a>
 
+        <a href="/Testimonials" className="font-medium text-xl px-4 py-2 rounded-md text-black hover:text-gray-600 list-style-none">
+          Testimonials
+        </a>
+
 
 
 

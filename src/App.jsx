@@ -13,6 +13,7 @@ import Courses from './Courses';
 import Footer from './Footer';
 import Blog from './Blog';
 import Aboutus from './Aboutus';
+import Testimonials from './Testimonials';
 
 
 
@@ -30,6 +31,8 @@ function App() {
           <Route path='/courses' element={<Courses />} />
           <Route path='/blog' element={<Blog />} />
           <Route path='/Aboutus' element={<Aboutus />} />
+          <Route path='/Testimonials' element={<Testimonials />} />
+
 
 
         </Routes>
