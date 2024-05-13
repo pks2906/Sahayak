@@ -14,6 +14,8 @@ import Footer from './Footer';
 import Blog from './Blog';
 import Aboutus from './Aboutus';
 import Testimonials from './Testimonials';
+import Gallery from './Gallery';
+
 
 
 
@@ -32,6 +34,10 @@ function App() {
           <Route path='/blog' element={<Blog />} />
           <Route path='/Aboutus' element={<Aboutus />} />
           <Route path='/Testimonials' element={<Testimonials />} />
+          <Route path='/Gallery' element={<Gallery />} />
+
+
+          
 
 
 

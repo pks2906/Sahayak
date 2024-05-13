@@ -25,6 +25,12 @@ const Navbar = () => {
           Testimonials
         </a>
 
+        <a href="/Gallery" className="font-medium text-xl px-4 py-2 rounded-md text-black hover:text-gray-600 list-style-none">
+          Gallery
+        </a>
+
+        
+
 
 
 
